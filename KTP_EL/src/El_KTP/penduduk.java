@@ -6,7 +6,6 @@
 package El_KTP;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 /**
  *
  * @author nurudinhasbullah
@@ -14,7 +13,7 @@ import java.util.Scanner;
 public class penduduk {
     
     //public String nik,nama,tempatLahir,tanggalLahir,jenKel,golDarah,rt,desa,kecamatan,agama,statusK,pekerjaan,kewarganegaraan;
-//    ArrayList<String> nik = new ArrayList<String>();
+    ArrayList<String> nik = new ArrayList<String>();
 //    ArrayList<String> nama = new ArrayList<String>();
 //    ArrayList<String> tmpLahir = new ArrayList<String>();
 //    ArrayList<String> tglLahir = new ArrayList<String>();
@@ -28,5 +27,5 @@ public class penduduk {
 //    ArrayList<String> warNeg = new ArrayList<String>(); 
     
     
-    Scanner input = new Scanner(System.in); 
+    
 }
